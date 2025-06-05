@@ -20,14 +20,13 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 <br>
 
 
-## Twitter Shortcode
+## Vimeo Shortcode
 
-<!-- {{< twitter id="1085870671291310081" >}} -->
+{{< vimeo 48912912 >}}
 
 <br>
 
 
+## Twitter Shortcode
 
-## Vimeo Shortcode
-
-{{< vimeo 48912912 >}}
+{{< x user="TwitterDev" id="1234567890" >}}

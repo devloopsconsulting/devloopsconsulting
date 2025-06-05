@@ -17,27 +17,17 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
-
   showBlog = false
   mainSections = ['blog']
-
   googleFonts = true
-
   [params.logo]
     main = "img/logo.png"
     alt = "DevLoops Logo"
-
-    # The size parameter is the class name of tailwindcss
-    # https://tailwindcss.com/
     size = "h-14"
-
   [params.site]
     name = "DevLoops"
-
   [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
-
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_og_title = "Tella"
@@ -49,12 +39,17 @@ enableRobotsTXT = true
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
     weight = 1
 
   [[menu.main]]

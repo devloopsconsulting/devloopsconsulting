@@ -1,11 +1,15 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "title": "Unlock DevOps Excellence for Your Business",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "Seamless Cloud Migration & Modernization",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Secure, Scalable, and Automated Infrastructure",
+    "image": "img/slide/slide03.jpg"
   }
 ]
