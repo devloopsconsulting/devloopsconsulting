@@ -10,7 +10,7 @@ markup:
 
 Ready to modernize your infrastructure or migrate to the cloud? We’d love to discuss your project and how we can help.
 
-- Email: [info@usedevloops.com](mailto:info@usedevloops.com)
+- Email: [contact@usedevloops.com](mailto:contact@usedevloops.com)
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/company/usedevloops)
 
 ## Send us a message
