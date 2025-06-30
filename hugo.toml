@@ -1,6 +1,6 @@
-baseURL = "https://usedevloops.com"
-title = "Devloops"
-author = "DevLoops engineering"
+baseURL = "https://devloopsconsulting.com"
+title = "DevLoops Consulting"
+author = "DevLoops Consulting"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -21,11 +21,11 @@ enableRobotsTXT = true
   mainSections = ['blog']
   googleFonts = true
   [params.logo]
-    main = "img/logo.png"
+    main = "img/devloops-logo-transparent.png"
     alt = "DevLoops Logo"
     size = "h-14"
   [params.site]
-    name = "DevLoops"
+    name = "DevLoops Consulting"
   [params.icon]
     fontawesome = true
   [params.homepage_meta_tags]
