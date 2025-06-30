@@ -11,7 +11,6 @@ markup:
 Ready to modernize your infrastructure or migrate to the cloud? We'd love to discuss your project and how we can help.
 
 - Email: [contact@devloopsconsulting.com](mailto:contact@devloopsconsulting.com)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/company/devloops)
 
 ## Send us a message
 
