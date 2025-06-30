@@ -29,4 +29,4 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Shortcode
 
-{{< x user="TwitterDev" id="1234567890" >}}
+{{< x user="cruisemaniac" id="1938198589043286032" >}}
