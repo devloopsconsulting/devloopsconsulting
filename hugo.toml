@@ -29,15 +29,15 @@ enableRobotsTXT = true
   [params.icon]
     fontawesome = true
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
-    meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_description = "DevLoops Consulting helps businesses streamline software delivery with DevOps, Kubernetes, and cloud-native infrastructure. We deliver automation, scalability, and 24/7 support."
+    meta_og_title = "DevOps Consulting | Kubernetes & Cloud Experts - DevLoops Consulting"
+    meta_og_type = "organization"
+    meta_og_url = "https://devloopsconsulting.com"
+    meta_og_image = "https://devloopsconsulting.com/favicon-32x32.png"
+    meta_og_description = "DevOps and cloud-native consulting company focused on automation, Kubernetes, and infrastructure modernization."
+    #meta_twitter_card = "summary_large_image"
+    #meta_twitter_site = "@username"
+    #meta_twitter_creator = "@username"
 
 [markup]
   [markup.goldmark]
