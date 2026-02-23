@@ -1,21 +1,39 @@
 [
   {
+    "title": "Cloud Consulting & Migrations",
+    "description": "Expert guidance and seamless migration to AWS, Azure, or GCP with minimal downtime and maximum ROI.",
+    "icon": "icon-cloud",
+    "link": "/services/#cloud-consulting-migrations"
+  },
+  {
+    "title": "Kubernetes & Serverless Adoptions",
+    "description": "Modernize your applications with container orchestration and serverless architectures for scalability and efficiency.",
+    "icon": "icon-autorenew",
+    "link": "/services/#kubernetes-serverless"
+  },
+  {
     "title": "DevOps Automation",
     "description": "Accelerate delivery with CI/CD, Infrastructure as Code, and end-to-end automation.",
     "icon": "icon-settings",
     "link": "/services/#devops-automation"
   },
   {
-    "title": "Cloud Migration",
-    "description": "Seamless migration to AWS, Azure, or GCP with minimal downtime and maximum ROI.",
-    "icon": "icon-cloud",
-    "link": "/services/#cloud-migration"
-  },
-  {
     "title": "Infrastructure Modernization",
     "description": "Transform legacy systems with containers, Kubernetes, and modern cloud-native practices.",
     "icon": "icon-autorenew",
     "link": "/services/#infrastructure-modernization"
+  },
+  {
+    "title": "Cloud Cost Optimization",
+    "description": "Reduce cloud spending and maximize ROI through comprehensive cost analysis, right-sizing, and optimization strategies.",
+    "icon": "icon-settings",
+    "link": "/services/#cost-optimization"
+  },
+  {
+    "title": "Infrastructure Audits",
+    "description": "Comprehensive assessment of your infrastructure security, performance, and compliance to identify risks and opportunities.",
+    "icon": "icon-support",
+    "link": "/services/#infrastructure-audits"
   },
   {
     "title": "Managed Support",

@@ -1,15 +1,15 @@
 ---
-title: "DevOps, Cloud & Infrastructure Modernization Consulting"
-description: "Accelerate your business with expert DevOps, cloud migration, and infrastructure modernization services."
+title: "Cloud Consulting & Infrastructure Optimization Experts"
+description: "Transform your cloud infrastructure with expert consulting, Kubernetes adoption, cost optimization, and comprehensive audits."
 ---
 
-# Unlock the Power of Modern DevOps
+# Transform Your Cloud Infrastructure
 
-We help businesses transform their technology, streamline operations, and migrate to the cloud with confidence. Our team of experts delivers tailored solutions in DevOps, cloud adoption, and infrastructure modernization.
+We help businesses optimize their cloud investments, modernize applications, and build secure, scalable infrastructure. Our expert consultants deliver tailored solutions for cloud success.
 
-- 🚀 Accelerate software delivery
-- ☁️ Seamless cloud migration
-- 🔒 Secure, scalable infrastructure
-- 🛠️ End-to-end DevOps automation
+- ☁️ Strategic cloud consulting & seamless migrations
+- 🚀 Kubernetes & serverless architecture adoption
+- 💰 Cost optimization & cloud spend management
+- 🔍 Comprehensive infrastructure audits
 
 [Contact Us](/contact/) to start your transformation journey today!
